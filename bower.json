@@ -1,0 +1,19 @@
+{
+  "name": "agwebsite",
+  "description": "Addie's Website",
+  "main": "",
+  "authors": [
+    "karen springford <jkspringford@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/KarenSpringford/AGWebsite",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
